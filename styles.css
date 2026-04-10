@@ -1,11 +1,11 @@
 h1 {
-    font-family: "DM Sans", sans-serif;
+    font-family: 'DM Sans', monospace;
     font-size: xx-large;
     text-align: center;
 }
 
 .maintext {
-    margin: 20vh;
+    margin: auto;
     margin-top: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Georgia', monospace;
 }
