@@ -3,3 +3,18 @@ h1 {
     font-size: xx-large;
     text-align: center;
 }
+
+p {
+
+}
+
+.maintext {
+    margin: auto;
+    
+}
+.dm-sans-unique {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+}
