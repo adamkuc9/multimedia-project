@@ -1,11 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
 h1 {
-    font-family: monospace;
-    font-size: xx-large;
+    font-family: 'DM Sans', sans-serif;
+    font-size: xxx-large;
     text-align: center;
+    font-weight: 950;
+    
 }
 
 .maintext {
-    margin: auto;
+    margin: 50vh;
     margin-top: 10px;
-    font-family: monospace;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+
+.toptext {
+    margin: 5px;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+
+.highlight-yellow {
+    background: yellow;
+    margin: 20px;
+}
+
+a:link, a:visited {
+    color: rgb(41, 41, 41);
+}
+
+a:hover {
+    color: black;
 }
