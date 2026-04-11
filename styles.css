@@ -4,22 +4,22 @@ h1 {
     font-family: 'DM Sans', sans-serif;
     font-size: xxx-large;
     text-align: center;
-    font-weight: 950;
-    
+    font-weight: 999;
+    font-size: 300%;
 }
 
 .maintext {
     margin: 50vh;
     margin-top: 10px;
     font-family: 'DM Sans', sans-serif;
-    
+    font-size: 200%;
 }
 
 .toptext {
     margin: 5px;
     text-align: center;
     font-family: 'DM Sans', sans-serif;
-    
+    font-size: 125%;
 }
 
 .highlight-yellow {
