@@ -8,6 +8,13 @@ h1 {
     font-size: 300%;
 }
 
+h3 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: large;
+    margin: 50vh;
+    margin-top: 5px;
+}
+
 .maintext {
     margin: 50vh;
     margin-top: 10px;
@@ -32,5 +39,5 @@ a:link, a:visited {
 }
 
 a:hover {
-    color: black;
+    color: rgb(0,0,0);
 }
