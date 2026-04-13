@@ -8,9 +8,8 @@ h1 {
     font-size: 300%;
 }
 
-h3 {
+h2 {
     font-family: 'DM Sans', sans-serif;
-    font-size: large;
     margin: 50vh;
     margin-top: 5px;
 }
@@ -18,6 +17,7 @@ h3 {
 .maintext {
     margin: 50vh;
     margin-top: 10px;
+    margin-bottom: 10px;
     font-family: 'DM Sans', sans-serif;
     font-size: 200%;
 }
