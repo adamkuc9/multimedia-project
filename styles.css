@@ -43,5 +43,8 @@ a:hover {
 }
 
 hr {
-    width: 50%;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
