@@ -49,3 +49,12 @@ hr {
     margin-bottom: 10px;
     margin-top: 10px;
 }
+
+.mediabit {
+    position: absolute;
+    transition: all 0.3s;
+}
+
+.mediabit:hover {
+    transform: translateX(center) scale(2);
+}
