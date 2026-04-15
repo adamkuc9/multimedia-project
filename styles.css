@@ -58,3 +58,8 @@ hr {
 .mediabit:hover {
     transform: translateX(center) scale(2);
 }
+
+.caption {
+    font-size: small;
+    font-family: 'DM Sans', sans-serif;
+}
